@@ -1,0 +1,21 @@
+body {
+    background-color: blueviolet;
+}
+
+h1, h2 {
+    background-color: aquamarine;
+    border-style: solid;
+    border-color: blue;
+    padding: 20px;
+    margin-top: 30px;
+    width: 30%
+}
+
+img {
+    width:30%
+}
+
+h1, h2 {
+                color:rgb(27, 5, 65);
+    text-align: center;
+}
